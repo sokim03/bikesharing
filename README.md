@@ -6,7 +6,7 @@ Reviewing NYC bike share program data that shows:
 - the number of bike trips for all riders and genders for each hour of each day of the week,
 - and the number of bike trips for each type of user and gender for each day of the week. 
 
-This data is to propose a possible bike sharing program in Des Moines, Idaho.
+This data is to propose a possible bike sharing program in Des Moines, Iowa.
 
 ## Results:
 ![August Peak Hours](https://user-images.githubusercontent.com/96352427/162645738-7754a6b6-f87c-4087-9d52-86787c6afe24.png)
