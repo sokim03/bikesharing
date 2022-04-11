@@ -37,6 +37,10 @@ Heatmap graph showing user trips in the weekday by user types: Customer and Subs
 
 Concentration graph showing the amount of bike repairs done by bike ID.
 
+The full visualization story can be seen here: [link to dashboard](https://public.tableau.com/app/profile/so.kim/viz/NYCCitibikeAnalysis_16496337335200/NYCCitibikeAnalysis)
+
 ## Summary:
 Overall the results show that in NYC the bike share program in the example month of August show a high volume of bike usage especially among the male population. It also appears that the time of high bicycle usage is during the hours of 6am to 9am and 4pm to 7pm, this may be due to the individuals commuting to and back from work. 
 Other possible visualizations that can be considered is the location of where users are traveling to and or how far users are traveling to get to their destinations.
+
+
